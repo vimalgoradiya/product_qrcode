@@ -1,0 +1,7 @@
+name: Product QR-Code
+description: Product listing block while accessing product page
+type: module
+core: 8.x
+core_version_requirement: ^8 || ^9
+dependencies:
+  - block
